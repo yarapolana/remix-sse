@@ -1,4 +1,5 @@
-import { Headers } from '@remix-run/node';
+// import { Headers } from '@remix-run/vercel';
+// import { Headers } from '@remix-run/vercel';
 import { InitFunction } from './types';
 
 export class EventStream extends Response {
