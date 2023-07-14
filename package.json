@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "@remix-run/node": "^1.6.8",
-    "@remix-run/react": "^1.6.8",
-    "@remix-run/serve": "^1.6.8",
+    "@vercel/remix": "^1.18.1",
+    "@remix-run/react": "^1.18.1",
+    "@remix-run/serve": "^1.18.1",
     "react": "*",
     "react-dom": "*",
     "regenerator-runtime": "*",
@@ -28,8 +28,8 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^17.0.0",
-    "@remix-run/dev": "^1.6.8",
-    "@remix-run/eslint-config": "^1.6.8",
+    "@remix-run/dev": "^1.18.1",
+    "@remix-run/eslint-config": "^1.18.1",
     "@semantic-release/npm": "^9.0.1",
     "@testing-library/react": "13.4.0",
     "@types/jest": "28.1.1",
